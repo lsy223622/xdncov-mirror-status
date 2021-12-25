@@ -94,19 +94,19 @@
     "url": "https://myxdu.moefactory.com/article/covid19_xdu.html",
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
-    "status": "down",
-    "uptime": "85.02%",
-    "uptimeDay": "85.02%",
-    "uptimeWeek": "85.02%",
-    "uptimeMonth": "85.02%",
-    "uptimeYear": "85.02%",
-    "time": 1264,
-    "timeDay": 1264,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
-    "timeYear": 1264,
+    "status": "up",
+    "uptime": "83.86%",
+    "uptimeDay": "83.86%",
+    "uptimeWeek": "83.86%",
+    "uptimeMonth": "83.86%",
+    "uptimeYear": "83.86%",
+    "time": 1295,
+    "timeDay": 1295,
+    "timeWeek": 1295,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {
-      "2021-12-25": 65
+      "2021-12-25": 71
     }
   },
   {
