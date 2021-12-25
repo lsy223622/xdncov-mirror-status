@@ -27,7 +27,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: xdncov-mirror-status.lsy223622.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://test1.lsy223622.com/icon.svg
+  faviconSvg: https://test1.lsy223622.com/icon.svg
   name: xdncov-mirror-status
   introTitle: "西电疫情互助文档整理镜像在线状态"
   introMessage: 西电疫情互助文档整理镜像在线状态
