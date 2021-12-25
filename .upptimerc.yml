@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: lsy223622 # Your GitHub organization or username, where this repository lives
+repo: xdncov-mirror-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Site
+    url: https://benderblog.github.io/SpiritFlown.html
+  - name: Mirror-Ri
+    url: https://ncov.raay.xyz/
+  - name: Mirror-木生
+    url: https://t.lsy223622.com/ncov-xidian-times
+  - name: Mirror-Dimole
+    url: https://xidian-ncov.dml.ink/
+  - name: Mirror-爬
+    url: https://ncov.zhouym.tech/
+  - name: Mirror-xmgg
+    url: https://myxdu.moefactory.com/article/covid19_xdu.html
+  - name: Mirror-鱼露
+    url: https://ncov.hawa130.com/
+  - name: Mirror-没有女朋友跨年的群傻逼
+    url: https://x.ksfu.top/
+  - name: Mirror-noobwei
+    url: https://www.noobwei.xyz/COVID-19.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: xdncov-mirror-status.lsy223622.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: xdncov-mirror-status
+  introTitle: "西电疫情互助文档整理镜像在线状态"
+  introMessage: 西电疫情互助文档整理镜像在线状态
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  customHeadHtml: "<script>var _paq = window._paq = window._paq || [];/* tracker methods like "setCustomDimension" should be called before "trackPageView" */_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function() {var u="https://analytics.lsy223622.com/";_paq.push(['setTrackerUrl', u+'matomo.php']);_paq.push(['setSiteId', '3']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);})();</script>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
