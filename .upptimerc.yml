@@ -31,12 +31,12 @@ status-website:
   name: xdncov-mirror-status
   introTitle: "西电疫情互助文档整理镜像在线状态"
   introMessage: 西电疫情互助文档整理镜像在线状态
+  customHeadHtml: "<img referrerpolicy="no-referrer-when-downgrade" src="https://analytics.lsy223622.com/matomo.php?idsite=3&amp;rec=1" style="border:0" alt="" />"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customHeadHtml: "<img referrerpolicy="no-referrer-when-downgrade" src="https://analytics.lsy223622.com/matomo.php?idsite=3&amp;rec=1" style="border:0" alt="" />"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
