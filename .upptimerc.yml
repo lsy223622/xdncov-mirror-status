@@ -28,6 +28,7 @@ status-website:
   cname: xdncov-mirror-status.lsy223622.com
   # baseUrl: /your-repo-name
   logoUrl: https://test1.lsy223622.com/icon.svg
+  favicon: https://test1.lsy223622.com/icon.svg
   faviconSvg: https://test1.lsy223622.com/icon.svg
   name: xdncov-mirror-status
   introTitle: "西电疫情互助文档整理镜像在线状态"
