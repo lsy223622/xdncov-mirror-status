@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
     "status": "up",
-    "uptime": "87.96%",
-    "uptimeDay": "87.96%",
-    "uptimeWeek": "87.96%",
-    "uptimeMonth": "87.96%",
-    "uptimeYear": "87.96%",
+    "uptime": "89.07%",
+    "uptimeDay": "89.07%",
+    "uptimeWeek": "89.07%",
+    "uptimeMonth": "89.07%",
+    "uptimeYear": "89.07%",
     "time": 1310,
     "timeDay": 1310,
     "timeWeek": 1310,
     "timeMonth": 1310,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2021-12-25": 89
+      "2021-12-25": 83
     }
   },
   {
