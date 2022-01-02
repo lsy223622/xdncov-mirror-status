@@ -14,7 +14,7 @@ sites:
   - name: Mirror-爬
     url: https://ncov.zhouym.tech/
   - name: Mirror-xmgg
-    url: https://myxdu.moefactory.com/article/covid19_xdu.html
+    url: https://myxdu.moefactory.com/ncov/doc
   - name: Mirror-鱼露
     url: https://ncov.hawa130.com/
   - name: Mirror-没有女朋友跨年的群傻逼
