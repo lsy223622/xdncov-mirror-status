@@ -94,12 +94,12 @@
     "url": "https://myxdu.moefactory.com/ncov/doc",
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
-    "status": "up",
-    "uptime": "84.03%",
-    "uptimeDay": "61.53%",
+    "status": "down",
+    "uptime": "84.11%",
+    "uptimeDay": "65.82%",
     "uptimeWeek": "82.70%",
-    "uptimeMonth": "84.03%",
-    "uptimeYear": "84.03%",
+    "uptimeMonth": "84.11%",
+    "uptimeYear": "84.11%",
     "time": 1466,
     "timeDay": 1198,
     "timeWeek": 1521,
@@ -160,18 +160,18 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.50%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 1241,
     "timeDay": 794,
     "timeWeek": 963,
     "timeMonth": 1241,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2022-01-03": 0
+      "2022-01-03": 62
     }
   }
 ]
