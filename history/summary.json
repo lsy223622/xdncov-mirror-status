@@ -46,12 +46,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 843,
-    "timeWeek": 1038,
-    "timeMonth": 1023,
-    "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "time": 1032,
+    "timeDay": 1005,
+    "timeWeek": 1059,
+    "timeMonth": 1032,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2022-01-08": 0
+    }
   },
   {
     "name": "Mirror-Dimole",
@@ -82,12 +84,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 843,
-    "timeWeek": 1038,
-    "timeMonth": 1023,
-    "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "time": 1032,
+    "timeDay": 1005,
+    "timeWeek": 1059,
+    "timeMonth": 1032,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2022-01-08": 0
+    }
   },
   {
     "name": "Mirror-xmgg",
@@ -95,11 +99,11 @@
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
     "status": "up",
-    "uptime": "88.51%",
+    "uptime": "88.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.71%",
-    "uptimeMonth": "88.51%",
-    "uptimeYear": "88.51%",
+    "uptimeMonth": "88.84%",
+    "uptimeYear": "88.84%",
     "time": 1433,
     "timeDay": 1189,
     "timeWeek": 1223,
@@ -131,12 +135,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 843,
-    "timeWeek": 1038,
-    "timeMonth": 1023,
-    "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "time": 1032,
+    "timeDay": 1005,
+    "timeWeek": 1059,
+    "timeMonth": 1032,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2022-01-08": 0
+    }
   },
   {
     "name": "Mirror-没有女朋友跨年的群傻逼",
@@ -149,12 +155,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 843,
-    "timeWeek": 1038,
-    "timeMonth": 1023,
-    "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "time": 1032,
+    "timeDay": 1005,
+    "timeWeek": 1059,
+    "timeMonth": 1032,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2022-01-08": 0
+    }
   },
   {
     "name": "Mirror-noobwei",
@@ -162,18 +170,18 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "63.70%",
+    "uptime": "61.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.85%",
-    "uptimeMonth": "63.70%",
-    "uptimeYear": "63.70%",
+    "uptimeWeek": "24.13%",
+    "uptimeMonth": "61.87%",
+    "uptimeYear": "61.87%",
     "time": 1228,
     "timeDay": 923,
     "timeWeek": 1077,
     "timeMonth": 1228,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2022-01-08": 16,
+      "2022-01-08": 592,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
