@@ -22,10 +22,10 @@
     "url": "https://ncov.raay.xyz/",
     "icon": "https://favicons.githubusercontent.com/ncov.raay.xyz",
     "slug": "mirror-ri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1448,
@@ -33,7 +33,9 @@
     "timeWeek": 1530,
     "timeMonth": 1448,
     "timeYear": 1448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Mirror-木生",
@@ -41,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/t.lsy223622.com",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 844,
     "timeWeek": 1076,
     "timeMonth": 1023,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2022-01-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mirror-Dimole",
@@ -79,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/ncov.zhouym.tech",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 844,
     "timeWeek": 1076,
     "timeMonth": 1023,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2022-01-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mirror-xmgg",
@@ -99,14 +97,14 @@
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
     "status": "up",
-    "uptime": "90.28%",
+    "uptime": "90.32%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "97.86%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "90.28%",
+    "uptimeMonth": "90.32%",
+    "uptimeYear": "90.32%",
     "time": 1428,
     "timeDay": 1138,
-    "timeWeek": 1263,
+    "timeWeek": 1281,
     "timeMonth": 1428,
     "timeYear": 1428,
     "dailyMinutesDown": {
@@ -131,19 +129,17 @@
     "icon": "https://favicons.githubusercontent.com/ncov.hawa130.com",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 844,
     "timeWeek": 1076,
     "timeMonth": 1023,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2022-01-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mirror-没有女朋友跨年的群傻逼",
@@ -151,19 +147,17 @@
     "icon": "https://favicons.githubusercontent.com/x.ksfu.top",
     "slug": "mirror",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 844,
     "timeWeek": 1076,
     "timeMonth": 1023,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2022-01-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mirror-noobwei",
@@ -171,18 +165,18 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "53.53%",
+    "uptime": "53.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.53%",
-    "uptimeYear": "53.53%",
+    "uptimeMonth": "53.29%",
+    "uptimeYear": "53.29%",
     "time": 1190,
     "timeDay": 749,
     "timeWeek": 1088,
     "timeMonth": 1190,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2022-01-10": 835,
+      "2022-01-10": 942,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
