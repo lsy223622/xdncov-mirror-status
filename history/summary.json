@@ -40,10 +40,10 @@
     "url": "https://t.lsy223622.com/ncov-xidian-times",
     "icon": "https://favicons.githubusercontent.com/t.lsy223622.com",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
@@ -51,7 +51,9 @@
     "timeWeek": 1081,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Mirror-Dimole",
@@ -76,10 +78,10 @@
     "url": "https://ncov.zhouym.tech/",
     "icon": "https://favicons.githubusercontent.com/ncov.zhouym.tech",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
@@ -87,7 +89,9 @@
     "timeWeek": 1081,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Mirror-xmgg",
@@ -95,14 +99,14 @@
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
     "status": "up",
-    "uptime": "90.12%",
+    "uptime": "90.28%",
     "uptimeDay": "98.93%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "90.12%",
-    "uptimeYear": "90.12%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "90.28%",
     "time": 1428,
     "timeDay": 1138,
-    "timeWeek": 1261,
+    "timeWeek": 1263,
     "timeMonth": 1428,
     "timeYear": 1428,
     "dailyMinutesDown": {
@@ -126,10 +130,10 @@
     "url": "https://ncov.hawa130.com/",
     "icon": "https://favicons.githubusercontent.com/ncov.hawa130.com",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
@@ -137,17 +141,19 @@
     "timeWeek": 1081,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Mirror-没有女朋友跨年的群傻逼",
     "url": "https://x.ksfu.top/",
     "icon": "https://favicons.githubusercontent.com/x.ksfu.top",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
@@ -155,7 +161,9 @@
     "timeWeek": 1081,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Mirror-noobwei",
@@ -163,18 +171,18 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "54.44%",
+    "uptime": "53.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.44%",
-    "uptimeYear": "54.44%",
+    "uptimeMonth": "53.54%",
+    "uptimeYear": "53.54%",
     "time": 1190,
     "timeDay": 749,
     "timeWeek": 1088,
     "timeMonth": 1190,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2022-01-10": 450,
+      "2022-01-10": 833,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
