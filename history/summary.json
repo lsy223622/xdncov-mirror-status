@@ -22,10 +22,10 @@
     "url": "https://ncov.raay.xyz/",
     "icon": "https://favicons.githubusercontent.com/ncov.raay.xyz",
     "slug": "mirror-ri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1629,
@@ -33,17 +33,19 @@
     "timeWeek": 1697,
     "timeMonth": 1659,
     "timeYear": 1629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 2
+    }
   },
   {
     "name": "Mirror-木生",
     "url": "https://t.lsy223622.com/ncov-xidian-times",
     "icon": "https://favicons.githubusercontent.com/t.lsy223622.com",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
@@ -51,7 +53,9 @@
     "timeWeek": 877,
     "timeMonth": 945,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 1
+    }
   },
   {
     "name": "Mirror-Dimole",
@@ -76,10 +80,10 @@
     "url": "https://ncov.zhouym.tech/",
     "icon": "https://favicons.githubusercontent.com/ncov.zhouym.tech",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
@@ -87,7 +91,9 @@
     "timeWeek": 877,
     "timeMonth": 945,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 1
+    }
   },
   {
     "name": "Mirror-xmgg",
@@ -95,15 +101,15 @@
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
     "status": "up",
-    "uptime": "95.19%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.40%",
-    "uptimeYear": "95.19%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.29%",
     "time": 1402,
     "timeDay": 1001,
     "timeWeek": 1252,
-    "timeMonth": 1427,
+    "timeMonth": 1430,
     "timeYear": 1402,
     "dailyMinutesDown": {
       "2022-01-10": 15,
@@ -126,10 +132,10 @@
     "url": "https://ncov.hawa130.com/",
     "icon": "https://favicons.githubusercontent.com/ncov.hawa130.com",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
@@ -137,17 +143,19 @@
     "timeWeek": 877,
     "timeMonth": 945,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 1
+    }
   },
   {
     "name": "Mirror-没有女朋友跨年的群傻逼",
     "url": "https://x.ksfu.top/",
     "icon": "https://favicons.githubusercontent.com/x.ksfu.top",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
@@ -155,7 +163,9 @@
     "timeWeek": 877,
     "timeMonth": 945,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 1
+    }
   },
   {
     "name": "Mirror-noobwei",
@@ -163,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "26.49%",
+    "uptime": "25.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.40%",
-    "uptimeYear": "26.49%",
+    "uptimeMonth": "19.10%",
+    "uptimeYear": "25.93%",
     "time": 1069,
     "timeDay": 841,
     "timeWeek": 914,
     "timeMonth": 967,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2022-01-27": 15,
+      "2022-01-27": 1023,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
