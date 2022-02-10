@@ -59,7 +59,6 @@
     "timeMonth": 1058,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-02-09": 0,
       "2022-01-27": 20
     }
   },
@@ -101,7 +100,6 @@
     "timeMonth": 1058,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-02-09": 0,
       "2022-01-27": 20
     }
   },
@@ -156,7 +154,6 @@
     "timeMonth": 1058,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-02-09": 0,
       "2022-01-27": 20
     }
   },
@@ -177,7 +174,6 @@
     "timeMonth": 1058,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-02-09": 0,
       "2022-01-27": 20
     }
   },
@@ -187,18 +183,19 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "18.53%",
+    "uptime": "18.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.53%",
+    "uptimeYear": "18.52%",
     "time": 999,
     "timeDay": 808,
     "timeWeek": 803,
     "timeMonth": 870,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2022-02-09": 1439,
+      "2022-02-10": 17,
+      "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
