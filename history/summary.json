@@ -59,7 +59,6 @@
     "timeMonth": 1075,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-02-12": 0,
       "2022-01-27": 20
     }
   },
@@ -101,7 +100,6 @@
     "timeMonth": 1075,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-02-12": 0,
       "2022-01-27": 20
     }
   },
@@ -111,11 +109,11 @@
     "icon": "https://favicons.githubusercontent.com/myxdu.moefactory.com",
     "slug": "mirror-xmgg",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.76%",
+    "uptimeYear": "96.77%",
     "time": 1352,
     "timeDay": 808,
     "timeWeek": 819,
@@ -156,7 +154,6 @@
     "timeMonth": 1075,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-02-12": 0,
       "2022-01-27": 20
     }
   },
@@ -177,7 +174,6 @@
     "timeMonth": 1075,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-02-12": 0,
       "2022-01-27": 20
     }
   },
@@ -198,7 +194,8 @@
     "timeMonth": 826,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2022-02-12": 1438,
+      "2022-02-13": 19,
+      "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
