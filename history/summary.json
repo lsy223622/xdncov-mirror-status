@@ -49,7 +49,7 @@
     "slug": "mirror",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -59,7 +59,6 @@
     "timeMonth": 1033,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-02-17": 0,
       "2022-01-27": 20
     }
   },
@@ -91,7 +90,7 @@
     "slug": "mirror",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -101,7 +100,6 @@
     "timeMonth": 1033,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-02-17": 0,
       "2022-01-27": 20
     }
   },
@@ -146,7 +144,7 @@
     "slug": "mirror",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -156,7 +154,6 @@
     "timeMonth": 1033,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-02-17": 0,
       "2022-01-27": 20
     }
   },
@@ -167,7 +164,7 @@
     "slug": "mirror",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -177,7 +174,6 @@
     "timeMonth": 1033,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-02-17": 0,
       "2022-01-27": 20
     }
   },
@@ -187,18 +183,19 @@
     "icon": "https://favicons.githubusercontent.com/www.noobwei.xyz",
     "slug": "mirror-noobwei",
     "status": "down",
-    "uptime": "15.81%",
+    "uptime": "15.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.81%",
+    "uptimeYear": "15.80%",
     "time": 973,
     "timeDay": 673,
     "timeWeek": 759,
     "timeMonth": 832,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2022-02-17": 1437,
+      "2022-02-18": 20,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
