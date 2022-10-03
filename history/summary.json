@@ -68,7 +68,6 @@
     "timeMonth": 1298,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2022-10-02": 0,
       "2022-09-20": 0,
       "2022-05-14": 669,
       "2022-05-13": 377,
@@ -120,7 +119,6 @@
     "timeMonth": 1298,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2022-10-02": 0,
       "2022-09-20": 0,
       "2022-05-14": 669,
       "2022-05-13": 377,
@@ -138,18 +136,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/myxdu.moefactory.com.ico",
     "slug": "mirror-xmgg",
     "status": "down",
-    "uptime": "44.83%",
+    "uptime": "44.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.83%",
+    "uptimeYear": "44.82%",
     "time": 1104,
     "timeDay": 682,
     "timeWeek": 814,
     "timeMonth": 795,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2022-10-03": 2,
+      "2022-10-03": 37,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
@@ -345,7 +343,6 @@
     "timeMonth": 1298,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2022-10-02": 0,
       "2022-09-20": 0,
       "2022-05-14": 669,
       "2022-05-13": 377,
@@ -374,7 +371,6 @@
     "timeMonth": 1298,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2022-10-02": 0,
       "2022-09-20": 0,
       "2022-05-14": 669,
       "2022-05-13": 377,
@@ -403,7 +399,7 @@
     "timeMonth": 808,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-10-03": 4,
+      "2022-10-03": 38,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
