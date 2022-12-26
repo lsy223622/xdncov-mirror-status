@@ -62,17 +62,17 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "47.93%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "47.57%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "99.46%",
     "time": 1133,
-    "timeDay": 984,
-    "timeWeek": 992,
+    "timeDay": 982,
+    "timeWeek": 990,
     "timeMonth": 996,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-12-26": 266,
+      "2022-12-26": 283,
       "2022-12-25": 694,
       "2022-12-17": 8,
       "2022-12-16": 31,
@@ -84,7 +84,7 @@
       "2022-05-14": 669,
       "2022-05-13": 377,
       "2022-04-15": 603,
-      "2022-04-14": 127
+      "2022-04-14": 108
     }
   },
   {
@@ -117,17 +117,17 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "47.93%",
-    "uptimeWeek": "90.44%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "47.38%",
+    "uptimeWeek": "90.27%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.46%",
     "time": 1133,
-    "timeDay": 984,
-    "timeWeek": 992,
+    "timeDay": 983,
+    "timeWeek": 990,
     "timeMonth": 996,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-12-26": 269,
+      "2022-12-26": 286,
       "2022-12-25": 694,
       "2022-12-17": 8,
       "2022-12-16": 31,
@@ -139,7 +139,7 @@
       "2022-05-14": 669,
       "2022-05-13": 377,
       "2022-04-15": 603,
-      "2022-04-14": 127
+      "2022-04-14": 108
     }
   },
   {
@@ -152,14 +152,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.39%",
+    "uptimeYear": "34.38%",
     "time": 1074,
     "timeDay": 0,
     "timeWeek": 902,
     "timeMonth": 890,
-    "timeYear": 1067,
+    "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-12-26": 380,
+      "2022-12-26": 397,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
@@ -426,18 +426,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncov.hawa130.com.ico",
     "slug": "mirror",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "47.93%",
-    "uptimeWeek": "90.41%",
-    "uptimeMonth": "97.70%",
+    "uptime": "99.47%",
+    "uptimeDay": "47.22%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.46%",
     "time": 1133,
-    "timeDay": 984,
-    "timeWeek": 992,
+    "timeDay": 983,
+    "timeWeek": 990,
     "timeMonth": 996,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-12-26": 271,
+      "2022-12-26": 288,
       "2022-12-25": 694,
       "2022-12-17": 8,
       "2022-12-16": 31,
@@ -449,7 +449,7 @@
       "2022-05-14": 669,
       "2022-05-13": 377,
       "2022-04-15": 603,
-      "2022-04-14": 127
+      "2022-04-14": 108
     }
   },
   {
@@ -459,17 +459,17 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "47.93%",
-    "uptimeWeek": "90.39%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "47.08%",
+    "uptimeWeek": "90.22%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.46%",
     "time": 1133,
-    "timeDay": 984,
-    "timeWeek": 992,
+    "timeDay": 983,
+    "timeWeek": 990,
     "timeMonth": 996,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-12-26": 273,
+      "2022-12-26": 290,
       "2022-12-25": 694,
       "2022-12-17": 8,
       "2022-12-16": 31,
@@ -481,7 +481,7 @@
       "2022-05-14": 669,
       "2022-05-13": 377,
       "2022-04-15": 603,
-      "2022-04-14": 127
+      "2022-04-14": 108
     }
   },
   {
@@ -501,7 +501,7 @@
     "timeMonth": 0,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2022-12-26": 385,
+      "2022-12-26": 401,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
