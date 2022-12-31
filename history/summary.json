@@ -62,21 +62,21 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "39.09%",
-    "uptimeWeek": "72.09%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "39.61%",
+    "uptimeWeek": "71.97%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 1126,
-    "timeDay": 929,
+    "timeDay": 930,
     "timeWeek": 973,
     "timeMonth": 987,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-12-31": 25,
-      "2022-12-30": 874,
+      "2022-12-31": 59,
+      "2022-12-30": 867,
       "2022-12-29": 919,
       "2022-12-28": 924,
-      "2022-12-27": 64
+      "2022-12-27": 49
     }
   },
   {
@@ -109,21 +109,21 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "39.09%",
-    "uptimeWeek": "72.07%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "39.61%",
+    "uptimeWeek": "71.95%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 1126,
-    "timeDay": 929,
+    "timeDay": 930,
     "timeWeek": 973,
     "timeMonth": 987,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-12-31": 27,
-      "2022-12-30": 874,
+      "2022-12-31": 61,
+      "2022-12-30": 867,
       "2022-12-29": 919,
       "2022-12-28": 924,
-      "2022-12-27": 64
+      "2022-12-27": 49
     }
   },
   {
@@ -143,7 +143,7 @@
     "timeMonth": 879,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-12-31": 28,
+      "2022-12-31": 63,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -411,21 +411,21 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "39.09%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "39.61%",
+    "uptimeWeek": "71.94%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 1126,
-    "timeDay": 929,
+    "timeDay": 930,
     "timeWeek": 973,
     "timeMonth": 987,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-12-31": 28,
-      "2022-12-30": 874,
+      "2022-12-31": 62,
+      "2022-12-30": 867,
       "2022-12-29": 919,
       "2022-12-28": 924,
-      "2022-12-27": 64
+      "2022-12-27": 49
     }
   },
   {
@@ -435,21 +435,21 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "39.09%",
-    "uptimeWeek": "72.04%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "39.61%",
+    "uptimeWeek": "71.93%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 1126,
-    "timeDay": 929,
+    "timeDay": 930,
     "timeWeek": 973,
     "timeMonth": 987,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-12-31": 30,
-      "2022-12-30": 874,
+      "2022-12-31": 63,
+      "2022-12-30": 867,
       "2022-12-29": 919,
       "2022-12-28": 924,
-      "2022-12-27": 64
+      "2022-12-27": 49
     }
   },
   {
@@ -462,14 +462,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.85%",
+    "uptimeYear": "0.84%",
     "time": 901,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2022-12-31": 31,
+      "2022-12-31": 64,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
