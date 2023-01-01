@@ -63,19 +63,19 @@
     "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "35.44%",
-    "uptimeWeek": "70.56%",
-    "uptimeMonth": "93.22%",
+    "uptimeWeek": "70.73%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 1123,
-    "timeDay": 940,
+    "timeDay": 939,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 562,
+      "2023-01-01": 579,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 668
+      "2022-12-29": 633
     }
   },
   {
@@ -109,19 +109,19 @@
     "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "35.44%",
-    "uptimeWeek": "70.54%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "70.71%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
     "time": 1123,
-    "timeDay": 940,
+    "timeDay": 939,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 564,
+      "2023-01-01": 581,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 668
+      "2022-12-29": 633
     }
   },
   {
@@ -141,7 +141,7 @@
     "timeMonth": 879,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-01-01": 780,
+      "2023-01-01": 796,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
@@ -410,19 +410,19 @@
     "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "35.44%",
-    "uptimeWeek": "70.51%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "70.70%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
     "time": 1123,
     "timeDay": 939,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 567,
+      "2023-01-01": 583,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 668
+      "2022-12-29": 633
     }
   },
   {
@@ -431,21 +431,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/x.ksfu.top.ico",
     "slug": "mirror",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "35.42%",
-    "uptimeWeek": "70.49%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.45%",
+    "uptimeDay": "35.44%",
+    "uptimeWeek": "70.68%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "99.44%",
     "time": 1123,
     "timeDay": 939,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 568,
+      "2023-01-01": 585,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 668
+      "2022-12-29": 633
     }
   },
   {
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-01-01": 783,
+      "2023-01-01": 799,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
