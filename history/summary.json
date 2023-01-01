@@ -62,20 +62,20 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "34.64%",
-    "uptimeWeek": "71.35%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "34.37%",
+    "uptimeWeek": "71.44%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 1123,
-    "timeDay": 951,
+    "timeDay": 952,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 692,
+      "2023-01-01": 700,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 459
+      "2022-12-29": 442
     }
   },
   {
@@ -108,20 +108,20 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "34.49%",
-    "uptimeWeek": "71.32%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "34.37%",
+    "uptimeWeek": "71.42%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 1123,
-    "timeDay": 951,
+    "timeDay": 952,
     "timeWeek": 958,
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 694,
+      "2023-01-01": 702,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 459
+      "2022-12-29": 442
     }
   },
   {
@@ -141,7 +141,7 @@
     "timeMonth": 879,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-01-01": 1004,
+      "2023-01-01": 1012,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
@@ -409,9 +409,9 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "34.38%",
-    "uptimeWeek": "71.31%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "34.37%",
+    "uptimeWeek": "71.40%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 1123,
     "timeDay": 952,
@@ -419,10 +419,10 @@
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 696,
+      "2023-01-01": 704,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 459
+      "2022-12-29": 442
     }
   },
   {
@@ -432,9 +432,9 @@
     "slug": "mirror",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "34.36%",
-    "uptimeWeek": "71.30%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "34.37%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 1123,
     "timeDay": 952,
@@ -442,10 +442,10 @@
     "timeMonth": 984,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-01-01": 697,
+      "2023-01-01": 705,
       "2022-12-31": 869,
       "2022-12-30": 867,
-      "2022-12-29": 459
+      "2022-12-29": 442
     }
   },
   {
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-01-01": 1006,
+      "2023-01-01": 1014,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
